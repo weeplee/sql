@@ -37,16 +37,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 > erer
-<script LANGUAGE="javascript">
-<!--
-loopy()
-function loopy() {
-var sWord =""
-while (sWord != "wyrl") { //改为你自己的密码！
-sWord = prompt("输入正确密码才能登陆!
-}
-alert("AH...你好，你是本站成员，欢迎光临！")
-}
-//-->
-</script>
+>
+> <script language="JavaScript"><!--var password="";password=prompt('请输入密码 (本网站需输入密码才可进入):','');if (password != 'mima')   {alert("密码不正确,无法进入本站!!");    window.opener=null; window.close();}  // 密码不正确就关闭//--></script>
 
